@@ -40,4 +40,3 @@ This project aims to design and implement an automated exam management system th
 2. Open the `Exam_Management_System.ipynb` notebook.
 3. Follow the instructions in the notebook to run the system.
 
-## Project Structure
